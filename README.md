@@ -26,17 +26,10 @@ A full stack sports analytics platform built together with a classmate. It uses 
 
 ## Tools
 
-**Languages and frameworks**
-Swift, SwiftUI, React, Tailwind CSS
-
-**Backend and infrastructure**
-REST APIs, Docker, Linux, GitHub Actions
-
-**Design**
-Figma
-
-**Workflow**
-macOS, VS Code, Xcode, Git, Swift Package Manager, AI coding agents and agentic development workflows
+- **Languages and frameworks:** Swift, SwiftUI, React, Tailwind CSS
+- **Backend and infrastructure:** REST APIs, Docker, Linux, GitHub Actions
+- **Design:** Figma, UX/UI design
+- **Workflow:** macOS, VS Code, Xcode, Git, Swift Package Manager, AI coding agents and agentic development workflows
 
 ## Contact
 
