@@ -2,7 +2,17 @@
 
 **Product Engineer, from UX/UI to backend and system architecture**
 
+[![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=safari&logoColor=white)](https://jacobberggren.se)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jacobberggren.se)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobberggreen/)
+
+---
+
+## About
+
 I study for a Master of Science in Engineering in Interaction Technology and Design at Umeå University, graduating in 2028. The programme combines software development, system design and user centered design. I build digital products from idea to working result, and I care about both how they look and how they work.
+
+Based in Umeå, Sweden.
 
 ## Right now
 
@@ -10,29 +20,14 @@ I study for a Master of Science in Engineering in Interaction Technology and Des
 - Building **Convert** and **Krök1**, two iOS apps in Swift
 - Studying full stack development, human computer interaction and UX/UI
 
-## Selected projects
-
-**[Shapeshift](https://github.com/Jacobberggreen/Shapeshift)**
-A macOS menu bar app that converts and edits files locally. Hold Shift while dragging a file and drop it on the format you want. It has image tools, PDF tools and Finder integration. Everything runs on your Mac and nothing is uploaded. Built with Swift and SwiftUI.
-
-**Convert**
-An iOS app for unit and currency conversion, built in Swift.
-
-**Krök1**
-An iOS app with more than 10 party games, built in Swift.
-
-**OddsKollen**
-A full stack sports analytics platform built together with a classmate. It uses statistical models, a REST API and a React dashboard. It runs in Docker on a self hosted Linux server.
-
 ## Tools
 
-- **Languages and frameworks:** Swift, SwiftUI, React, Tailwind CSS
-- **Backend and infrastructure:** REST APIs, Docker, Linux, GitHub Actions
-- **Design:** Figma, UX/UI design
-- **Workflow:** macOS, VS Code, Xcode, Git, Swift Package Manager, AI coding agents and agentic development workflows
+<img src="assets/tools.svg" alt="Languages: Swift, TypeScript, JavaScript, Python, Java, C, HTML, CSS. Frameworks and data: React, Next.js, Tailwind CSS, Vite, Node.js, Supabase, PostgreSQL. Tools and infrastructure: Docker, Linux, Cloudflare, Figma, GitHub, VS Code, Xcode, macOS." />
 
 ## Contact
 
-[Website](https://jacobberggreen.se) | [Email](mailto:contact@jacobberggren.se) | [LinkedIn](https://www.linkedin.com/in/jacobberggreen/)
+[![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=safari&logoColor=white)](https://jacobberggren.se)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jacobberggren.se)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobberggreen/)
 
-Based in Umeå, Sweden.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" alt="" width="100%" />
